@@ -1,0 +1,24 @@
+{
+  "name": "html-starter",
+  "version": "1.0.0",
+  "description": "Let's learn html",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g3ntz/html-starter.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "git"
+  ],
+  "author": "Gentrit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g3ntz/html-starter/issues"
+  },
+  "homepage": "https://github.com/g3ntz/html-starter#readme"
+}
